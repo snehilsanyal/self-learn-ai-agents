@@ -1,2 +1,4 @@
-# self-learn-ai-agents
-🏫🙋🏻 [WIP] Self learn AI Agents. This repository is a collection of resources, notebooks, blogs, tutorials for beginners.
+# 🏫🙋🏻 🤖 Self Learn AI Agents
+
+## ⚒ 💻 Work in Progress
+This repository contains a roadmap for beginner's to start their journey on AI Agents. Self-curated. The difficulty will be moderate and expects prior knowledge about LLMs and concepts like fine-tuning, pre-training etc.
